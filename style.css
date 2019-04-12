@@ -1,0 +1,36 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+.header
+{
+    background: #e62f1a;
+    height: 50px;
+}
+
+.content img
+{
+    width: 30%;
+    height: 30%;
+    margin: auto;
+    display:block; 
+    
+}
+.content{
+    min-height: 100%;  
+    margin-bottom: -50px;
+}
+
+.footer {
+    height: 80px;
+    
+    background: #e62f1a;
+}
+
+.footer p{
+    text-align: center;
+    color: azure;
+}
